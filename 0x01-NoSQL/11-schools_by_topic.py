@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-Where can I learn Python?
+Where can I learn Python programming language
 """
 
 
